@@ -20,17 +20,25 @@
             "text": "Livraison Offerte en France",
             "url": ""
           }
+        },
+        "message_XbaL8j": {
+          "type": "message",
+          "settings": {
+            "text": "14 Jours Satisfait ou Remboursé",
+            "url": ""
+          }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_XbaL8j"
       ],
       "settings": {
         "enable_sticky": false,
         "autoplay": false,
         "cycle_speed": 6,
         "text_size": "text-xs",
-        "navigation_mode": "scrolling",
+        "navigation_mode": "arrows",
         "scrolling_speed": 10,
         "background": "#003c40",
         "background_gradient": "",
