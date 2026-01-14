@@ -338,6 +338,260 @@
         "input_text_color": ""
       }
     },
+    "logo_list_XNyXNc": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_8brgKi": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/CREA_1080X1080_86.png",
+            "logo_width": 100,
+            "link": ""
+          }
+        },
+        "logo_Ci9F4W": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/CREA_1080X1080_88.png",
+            "logo_width": 100,
+            "link": ""
+          }
+        },
+        "logo_pbPhrn": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/CREA_1080X1080_87.png",
+            "logo_width": 100,
+            "link": ""
+          }
+        },
+        "logo_MPwDgh": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/CREA_1080X1080_89.png",
+            "logo_width": 100,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_8brgKi",
+        "logo_Ci9F4W",
+        "logo_pbPhrn",
+        "logo_MPwDgh"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "rich_text_CYNhgz": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_PfmYVV": {
+          "type": "subheading",
+          "settings": {
+            "text": "TESTÉ ET APPROUVÉS PAR NOS CLIENTS"
+          }
+        },
+        "heading_GwHFLG": {
+          "type": "heading",
+          "settings": {
+            "text": "Approuvés Par +3,000 Clients",
+            "heading_tag": "h3",
+            "text_color": "#003c40",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_PfmYVV",
+        "heading_GwHFLG"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_link_blocks_APBckV": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_NBj6Xi": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_35.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_64LAFX": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_34.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_NBgUeq": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_33.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_qxfT9x": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_32.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_e74UDa": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_31.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_nTwYzt": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_30.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_taAhff": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_36.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_gHV4QD": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_37.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_Xcqmba": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_38.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_hEaz8P": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_40.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_NBj6Xi",
+        "item_64LAFX",
+        "item_NBgUeq",
+        "item_qxfT9x",
+        "item_e74UDa",
+        "item_nTwYzt",
+        "item_taAhff",
+        "item_gHV4QD",
+        "item_Xcqmba",
+        "item_hEaz8P"
+      ],
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": false,
+        "block_size": "small",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "testimonials_mTKrYd": {
       "type": "testimonials",
       "blocks": {
@@ -428,18 +682,17 @@
         "166442457738b23caf-1",
         "166442457738b23caf-2"
       ],
-      "disabled": true,
       "settings": {
         "full_width": false,
         "subheading": "",
-        "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "title": "Questions Fréquentes",
+        "content": "",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "support_hours": "",
+        "answer_time": "",
         "button_text": "",
         "button_url": "",
-        "text_position": "start",
+        "text_position": "center",
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
@@ -456,6 +709,9 @@
     "rich_text_Fn7YPa",
     "image_link_blocks_GDaBCG",
     "featured_product_fLqViz",
+    "logo_list_XNyXNc",
+    "rich_text_CYNhgz",
+    "image_link_blocks_APBckV",
     "testimonials_mTKrYd",
     "faq"
   ]
