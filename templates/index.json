@@ -299,7 +299,7 @@
             "icon": "none",
             "icon_width": 20,
             "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "content": "<ul><li>Appliquer une petite quantité de baume sur une peau propre et sèche.</li><li>Masser délicatement la zone tatouée jusqu’à absorption complète.</li><li>Utiliser quotidiennement ou selon les besoins, de préférence après la douche.</li></ul><p>⚠️ Usage externe uniquement. Éviter le contact avec les yeux. En cas d’irritation, cesser l’utilisation.</p>",
             "page": ""
           }
         }
