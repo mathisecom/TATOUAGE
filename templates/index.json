@@ -397,6 +397,76 @@
         "logo_item_border": ""
       }
     },
+    "media_with_text_V4PEXg": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_pjTLXM": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "Obtenir Maintenant",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#003c40",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_pjTLXM"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
+    "media_with_text_4yTU6d": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_hFirzV": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "Obtenir Maintenant",
+            "link_url": "",
+            "background": "#fafffe",
+            "background_gradient": "",
+            "text_color": "#003c40",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_hFirzV"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": true,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
     "rich_text_CYNhgz": {
       "type": "rich-text",
       "blocks": {
@@ -710,6 +780,8 @@
     "image_link_blocks_GDaBCG",
     "featured_product_fLqViz",
     "logo_list_XNyXNc",
+    "media_with_text_V4PEXg",
+    "media_with_text_4yTU6d",
     "rich_text_CYNhgz",
     "image_link_blocks_APBckV",
     "testimonials_mTKrYd",
