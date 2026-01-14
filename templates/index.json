@@ -264,6 +264,26 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
+        },
+        "collapsible_text_zwKFCR": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_zrqy7w": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -274,7 +294,9 @@
         "description_jwUQhk",
         "variant_picker_PfMW3B",
         "quantity_selector_G9jqV6",
-        "buy_buttons_dBfRcc"
+        "buy_buttons_dBfRcc",
+        "collapsible_text_zwKFCR",
+        "collapsible_text_zrqy7w"
       ],
       "name": "Featured product",
       "settings": {
