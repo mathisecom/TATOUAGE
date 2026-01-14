@@ -9,13 +9,146 @@
  */
 {
   "sections": {
+    "rich_text_Fn7YPa": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_aQNLdG": {
+          "type": "subheading",
+          "settings": {
+            "text": "TESTÉ ET APPROUVÉS PAR NOS CLIENTS"
+          }
+        },
+        "heading_NH6RcT": {
+          "type": "heading",
+          "settings": {
+            "text": "Approuvés Par +3,000 Clients",
+            "heading_tag": "h3",
+            "text_color": "#003c40",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_aQNLdG",
+        "heading_NH6RcT"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_link_blocks_GDaBCG": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_CDjyfG": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_KGFkGy": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_YG384E": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_3MCanM": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_Enw6W9": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_M8Yzp7": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_CDjyfG",
+        "item_KGFkGy",
+        "item_YG384E",
+        "item_3MCanM",
+        "item_Enw6W9",
+        "item_M8Yzp7"
+      ],
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": false,
+        "block_size": "medium",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "featured_product_fLqViz": {
       "type": "featured-product",
       "blocks": {
         "title_XXLLBg": {
           "type": "title",
           "settings": {
-            "heading_tag": "h2"
+            "heading_tag": "h6"
           }
         },
         "price_GTVnyF": {
@@ -155,6 +288,8 @@
     }
   },
   "order": [
+    "rich_text_Fn7YPa",
+    "image_link_blocks_GDaBCG",
     "featured_product_fLqViz",
     "faq"
   ]
