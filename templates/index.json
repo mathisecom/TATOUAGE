@@ -191,7 +191,7 @@
       "name": "Image link blocks",
       "settings": {
         "full_width": false,
-        "block_size": "medium",
+        "block_size": "small",
         "subheading": "",
         "title": "",
         "content": "",
@@ -432,6 +432,22 @@
         "spacing": "none"
       }
     },
+    "scrolling_text_PNDJrF": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "Promotion text",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "#003c40",
+        "background_gradient": "",
+        "text_color": "#fafffe",
+        "text_gradient": ""
+      }
+    },
     "media_with_text_4yTU6d": {
       "type": "media-with-text",
       "blocks": {
@@ -439,7 +455,7 @@
           "type": "image",
           "settings": {
             "media_width": 50,
-            "media_position": "start",
+            "media_position": "end",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
@@ -671,9 +687,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "Pascal B.",
+            "title": "Cicatrisation bluffant",
+            "content": "<p>Parfaite !! Sur tatouage couleurs comme sur tatouage noir et gris . Cicatrisation bluffant ☺️</p>"
           }
         },
         "testimonial_tAbUrr": {
@@ -781,6 +797,7 @@
     "featured_product_fLqViz",
     "logo_list_XNyXNc",
     "media_with_text_V4PEXg",
+    "scrolling_text_PNDJrF",
     "media_with_text_4yTU6d",
     "rich_text_CYNhgz",
     "image_link_blocks_APBckV",
