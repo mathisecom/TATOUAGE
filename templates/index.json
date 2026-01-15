@@ -266,6 +266,12 @@
             "show_taxes_notice": false
           }
         },
+        "text_EJKVrJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share some content to your customers about your products.</p>"
+          }
+        },
         "rating_nWpDrQ": {
           "type": "rating",
           "disabled": true,
@@ -349,6 +355,7 @@
         "liquid_VYgyhr",
         "title_XXLLBg",
         "price_GTVnyF",
+        "text_EJKVrJ",
         "rating_nWpDrQ",
         "separator_HE3XFY",
         "description_jwUQhk",
