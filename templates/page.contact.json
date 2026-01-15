@@ -16,12 +16,45 @@
         "content_width": "80ch"
       }
     },
+    "rich_text_99Anfg": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_tGEi3W": {
+          "type": "heading",
+          "settings": {
+            "text": "Devenir Distributeur",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_xT49BQ": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Vous êtes tatoueur, concept store, boutique spécialisée ou professionnel du bien-être ? </p><p>Rejoignez notre réseau de distributeurs et proposez à vos clients un soin post-tatouage de qualité, formulé avec des ingrédients soigneusement sélectionnés pour la réparation, l’apaisement et la protection de la peau.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_tGEi3W",
+        "richtext_xT49BQ"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "contact": {
       "type": "contact",
       "settings": {
         "full_width": true,
-        "subheading": "Contact Us",
-        "title": "Do you have any question?",
+        "subheading": "",
+        "title": "",
         "content": "",
         "text_position": "center",
         "contact_form_size": "large",
@@ -39,6 +72,7 @@
   },
   "order": [
     "main",
+    "rich_text_99Anfg",
     "contact"
   ]
 }
