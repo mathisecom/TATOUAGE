@@ -417,7 +417,7 @@
   "password": {
     "general": {
       "follow_us": "Nous suivre",
-      "powered_by": "Cette boutique est propulsée par",
+      "powered_by": "‎ ‎ ",
       "store_owner": "Gérant de la boutique ?",
       "login": "Se connecter"
     },
@@ -438,6 +438,11 @@
         "one": "Il a reçu {{ count }} avis.",
         "other": "Il a reçu {{ count }} avis."
       }
+    }
+  },
+  "shopify": {
+    "links": {
+      "powered_by_shopify": "‎ ‎ "
     }
   }
 }
