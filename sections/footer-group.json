@@ -92,9 +92,9 @@
         "newsletter": {
           "type": "newsletter",
           "settings": {
-            "image_width": 150,
+            "image_width": 170,
             "heading_size": "h3",
-            "title": "Sign up for new stories and personal offers",
+            "title": "Newsletters",
             "content": ""
           }
         },
