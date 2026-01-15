@@ -502,6 +502,7 @@
         "image_hFirzV": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/CREA_1080X1080_-_2026-01-15T103529.147.jpg",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center text-center",
