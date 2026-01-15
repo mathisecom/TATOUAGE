@@ -254,10 +254,10 @@
             "liquid": "<div class=\"product-info__block-item\" data-block-id=\"liquid_ayckTY\" data-block-type=\"liquid\">\n  <div class=\"product-info__liquid\">\n    <div class=\"main-product__block main-product__block-custom_liquid\">\n      <div class=\"m-product-text\">\n        <div class=\"main-product__block main-product__block-custom_liquid\">\n          <div class=\"m-product-text\">\n            <div class=\"main-product__block main-product__block-custom_liquid\">\n              <div class=\"m-product-text\">\n                <div class=\"product-info__liquid\">\n                  <a class=\"image-size\" style=\"display: flex; align-items: center; gap: 8px;\">\n                    <img src=\"https://cdn.shopify.com/s/files/1/0776/3751/7627/files/avis.png?v=1687213619\" alt=\"Étoiles\" width=\"63\" height=\"13\">\n                    <span class=\"text-size\">Noté <b>4,8/5</b> sur la base de 3&nbsp;380 avis</span>\n                  </a>\n                </div>\n              </div>\n            </div>\n          </div>\n        </div>\n      </div>\n    </div>\n  </div>\n</div>"
           }
         },
-        "title_XXLLBg": {
-          "type": "title",
+        "text_wMJADq": {
+          "type": "text",
           "settings": {
-            "heading_tag": "h3"
+            "text": "<h3>Crème Réparatrice Post-Tatouage - 60G</h3>"
           }
         },
         "price_GTVnyF": {
@@ -353,7 +353,7 @@
       },
       "block_order": [
         "liquid_VYgyhr",
-        "title_XXLLBg",
+        "text_wMJADq",
         "price_GTVnyF",
         "text_EJKVrJ",
         "rating_nWpDrQ",
@@ -458,7 +458,7 @@
             "icon_width": 48,
             "subheading": "",
             "title": "Réparation Intense & Apaisement Immédiat",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "content": "<p>Ce baume <strong>réparateur protège et apaise la peau fraîchement tatouée</strong> grâce à la cire d’abeille et aux beurres de karité et de mangue, qui nourrissent intensément et préviennent le dessèchement. </p><p>Enrichi en calendula et centella asiatica, il favorise la <strong>régénération cutanée et soulage les tiraillements</strong> pour une cicatrisation optimale.</p>",
             "link_text": "Obtenir Maintenant",
             "link_url": "",
             "background": "#ffffff",
@@ -475,7 +475,7 @@
       ],
       "name": "Media with text",
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "alternate_media_position": false,
         "spacing": "none"
       }
@@ -485,7 +485,7 @@
       "name": "Scrolling text",
       "settings": {
         "full_width": true,
-        "text": "Promotion text",
+        "text": "Cicatrisation Rapide & Peau Apaisée",
         "text_size": "xsmall",
         "text_style": "fill",
         "scrolling_mode": "auto",
@@ -509,7 +509,7 @@
             "icon_width": 48,
             "subheading": "",
             "title": "Le Soin Essentiel pour un Tatouage Parfait",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "content": "<p>Sa formule à base d’huiles végétales et d’huiles essentielles de thym et d’arbre à thé aide à <strong>purifier la zone tatouée</strong> tout en maintenant une hydratation durable. </p><p>La vitamine E protège la peau et contribue à <strong>préserver l’éclat et la netteté du tatouage.</strong></p>",
             "link_text": "Obtenir Maintenant",
             "link_url": "",
             "background": "#fafffe",
