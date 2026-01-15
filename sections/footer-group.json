@@ -110,7 +110,7 @@
           "type": "text",
           "settings": {
             "title": "Contactez-Nous",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "content": "<p><strong>Email :</strong> hello@tatoofix.com</p><p><strong>Horaires d’ouverture :</strong><br/><br/>Du lundi au vendredi : 9h00 – 12h00 et 14h00 – 18h00 Samedi et dimanche : 10h00 – 12h00</p>",
             "enable_follow_on_shop": true
           }
         }
