@@ -729,6 +729,39 @@
     "testimonials_mTKrYd": {
       "type": "testimonials",
       "blocks": {
+        "testimonial_tAbUrr": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Mary U.",
+            "title": "Super efficace !",
+            "content": "<p>J’ai appliqué ce baume après mon dernier tatouage et j’ai vu une vraie différence. Ma peau était moins sèche, moins qui tiraillait, et la cicatrisation s’est faite en douceur.<strong> Je le recommande à 100% !</strong></p>"
+          }
+        },
+        "testimonial_tdfdUi": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Romain G.",
+            "title": "Texture agréable et apaisante",
+            "content": "<p>Le baume pénètre bien sans laisser de film gras. L’odeur est légère et naturelle, et j’ai senti une nette amélioration des démangeaisons dès les premiers jours. Très bon produit post-tatouage.</p>"
+          }
+        },
+        "testimonial_FWQkBT": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Julien A.",
+            "title": "Indispensable après un tatouage !",
+            "content": "<p>Je l’utilise chaque matin et soir depuis mon rendez-vous. L’application est facile, et ma peau ne gratte presque plus. Mon tatouage a guéri plus vite que prévu.</p>"
+          }
+        },
         "testimonial_YHMYGT": {
           "type": "testimonial",
           "settings": {
@@ -740,33 +773,24 @@
             "content": "<p>Parfaite !! Sur tatouage couleurs comme sur tatouage noir et gris . Cicatrisation bluffant ☺️</p>"
           }
         },
-        "testimonial_tAbUrr": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Mary U.",
-            "title": "Testimonial 2",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        },
-        "testimonial_tdfdUi": {
+        "testimonial_zQr9Lw": {
           "type": "testimonial",
           "settings": {
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "Joshua A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "Cécile K.",
+            "title": "Très bon soin, ma peau est plus souple.",
+            "content": "<p>J’aime la composition naturelle et hydratante. Après quelques jours d’utilisation, mon tatouage est super net et ma peau bien nourrie. Je mets une étoile en moins parce que j’aurais aimé un format plus grand.</p>"
           }
         }
       },
       "block_order": [
-        "testimonial_YHMYGT",
         "testimonial_tAbUrr",
-        "testimonial_tdfdUi"
+        "testimonial_tdfdUi",
+        "testimonial_FWQkBT",
+        "testimonial_YHMYGT",
+        "testimonial_zQr9Lw"
       ],
       "name": "Testimonials",
       "settings": {
