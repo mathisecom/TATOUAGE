@@ -451,6 +451,7 @@
         "image_pjTLXM": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/CREA_1080X1080_-_2026-01-15T104335.233.jpg",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -458,7 +459,7 @@
             "icon_width": 48,
             "subheading": "",
             "title": "Réparation Intense & Apaisement Immédiat",
-            "content": "<p>Ce baume <strong>réparateur protège et apaise la peau fraîchement tatouée</strong> grâce à la cire d’abeille et aux beurres de karité et de mangue, qui nourrissent intensément et préviennent le dessèchement. </p><p>Enrichi en calendula et centella asiatica, il favorise la <strong>régénération cutanée et soulage les tiraillements</strong> pour une cicatrisation optimale.</p>",
+            "content": "<p>Ce baume <strong>réparateur protège et apaise la peau fraîchement tatouée</strong> grâce à la cire d’abeille et aux beurres de karité et de mangue, qui nourrissent intensément et préviennent le dessèchement. Enrichi en calendula et centella asiatica, il favorise la <strong>régénération cutanée et soulage les tiraillements</strong> pour une cicatrisation optimale.</p>",
             "link_text": "Obtenir Maintenant",
             "link_url": "",
             "background": "#ffffff",
